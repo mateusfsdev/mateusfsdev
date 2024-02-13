@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p align="center">
- Hi 👋, I'm Mateus! A passionate mobile developer student from Brazil.
+ Hi 👋, I'm Mateus! A passionate mobile developer student from Brasil.
 
   - 🌱 I’m currently studying developer frontend in @rocketseat
 
