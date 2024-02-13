@@ -16,7 +16,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary align="center">👨‍💻 More about me</summary>
 
   - 💬 I'm 27 years old, I currently live in Brazil. and study developing webb for about two years, with a certain specialization for the mobile area with some tools in my   bag
 
