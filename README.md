@@ -6,7 +6,7 @@
 </div>
 
 <!-- Presentation -->
-<p>
+<p align="center">
  Hi 👋, I'm Mateus! A passionate mobile developer student from Brazil.
 
   - 🌱 I’m currently studying developer frontend in @rocketseat
@@ -80,10 +80,8 @@
 </div>
 
 
-###
-
-<p align="left">
-  <img align="center"  height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Imagem">
+<p align="center">
+  <img align="center"  height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Imagem">
 </p>
 ###
 
