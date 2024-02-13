@@ -83,7 +83,7 @@
 ###
 
 <p align="left">
-  <img align="center" src="[https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif)" alt="Imagem">
 </p>
 ###
 
