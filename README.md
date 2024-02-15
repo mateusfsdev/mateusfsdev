@@ -60,17 +60,18 @@
 
 </div>
 
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfsdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mateusfsdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="streak graph"  />
+ alt="stats graph"  />
+</div>
+
+
 <div align='center'>
   <p>01001000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100</p>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfsdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mateusfsdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusfsdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
-</div>
-
-
 
 
 
