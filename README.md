@@ -65,7 +65,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfsdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mateusfsdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="streak graph"  />
- alt="stats graph"  />
+
 </div>
 
 
