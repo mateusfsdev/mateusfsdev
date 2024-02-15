@@ -23,12 +23,6 @@
   - ⚡ I enjoy reading, whether it's a good book or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfsdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mateusfsdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusfsdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
-</div>
-
 <h2 align="center">💥my skills</h2>
 
 <div align="center">
@@ -55,21 +49,10 @@
 
 <br clear="both">
 
-<h2 align="center">📚📕 techs in study</h2>
-
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="50" alt="stylus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfsdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mateusfsdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusfsdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
 </div>
 
 
